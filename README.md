@@ -1,2 +1,2 @@
 # expectation-maximization
-$y-x$
+\$\$ y-x \$\$
