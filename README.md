@@ -1,4 +1,2 @@
 # expectation-maximization
-```tex
-\sum_{x=0}^n f(x)
-```
+$y-x$
